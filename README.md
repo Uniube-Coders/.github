@@ -32,11 +32,11 @@ Se você tem algo a compartilhar, não hesite em contribuir! Veja como:
 
 ### 3. **Participe das Discussões**
 
-Tem uma pergunta ou quer iniciar uma discussão? Acesse a aba de [Discussions](https://github.com/seu-usuario/uniube-coder/discussions) e faça parte das conversas em andamento.
+Tem uma pergunta ou quer iniciar uma discussão? Acesse a aba de [Discussions](https://github.com/Uniube-Coders/discussoes) e faça parte das conversas em andamento.
 
 ### 4. **Participe dos Projetos Colaborativos**
 
-Estamos sempre trabalhando em novos projetos! Dê uma olhada na aba de [Projetos](https://github.com/seu-usuario/uniube-coder/projects) e veja como você pode contribuir.
+Estamos sempre trabalhando em novos projetos! Dê uma olhada na aba de [Projetos](https://github.com/orgs/Uniube-Coders/repositories) e veja como você pode contribuir.
 
 ## 🤝 Contribuindo para a Comunidade
 
