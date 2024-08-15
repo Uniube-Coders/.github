@@ -1,6 +1,6 @@
-# 🎓 Uniube Coder
+# 🎓 Uniube Coders
 
-**Bem-vindo(a) à Uniube Coder!** 
+**Bem-vindo(a) à Uniube Coders!** 
 
 Esta é uma comunidade feita de alunos para alunos, voltada ao ensino e à educação, onde compartilhamos e discutimos conteúdos relacionados a **engenharia, tecnologia e programação**. Se você é um estudante apaixonado por aprender e crescer nessas áreas, está no lugar certo!
 
